@@ -1,0 +1,65 @@
+#container{
+width: 1000px;
+height: 350px;
+	margin: 0px auto;
+	border: solid black 2px;
+}
+
+body{
+	background-color: #ddaa88;
+}
+
+#image{
+	width: 210px;
+	height:210px;
+	float: right ;
+	border: solid 2px;
+	text-align: center;
+	margin: 8px 20px 0px 0px;
+}
+
+nav{
+	width: 200px;
+	float: left;
+}
+
+nav ol li{
+	text-align: center;
+	padding: 15px;
+	color: black;
+	margin: 5px 0px 10px 10px;
+	list-style-type: none;
+	border: solid 2px ;
+}
+
+#main h2, p{
+	border: solid balck;
+	padding:  1em;
+	text-align:  center;
+}
+
+#main h2{
+	width: 250p;
+}
+
+
+footer{
+	clear: both;
+	margin: 20px 2px 0px 2px;
+}
+
+footer ol li{
+	clear: both;
+	display: inline;
+	border: solid black 2px;
+	padding: 8px;
+	margin-top: 15px 2px;
+
+}
+img {
+	height: 210px;
+	width: 210px ;
+}
+section{
+	text-align: center;
+}
